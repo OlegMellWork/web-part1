@@ -1,0 +1,96 @@
+i {
+    background-color: orange;
+}
+
+p {
+    background-color: blue;
+}
+
+.background-color-class {
+    background-color: purple;
+    color: white;
+}
+
+#demo {
+    background-color: yellow;
+}
+
+.list {
+    background-color: grey;
+    color: white;
+    margin: 20px;
+    /*margin-top: 50px;*/
+    padding: 0;
+}
+
+/*.list-item {*/
+/*    background-color: blue;*/
+/*    color: yellow;*/
+/*    list-style: none;*/
+/*    width: 200px;*/
+/*    margin: 10px;*/
+/*    padding: 10px;*/
+/*    border: 5px solid red;*/
+/*}*/
+
+.ol-list {
+    list-style: upper-roman;
+    background-color: aqua;
+    color: #000;
+}
+
+/* margin */
+
+/* padding */
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.menu {
+    list-style: none;
+    background-color: grey;
+    padding: 10px;
+    margin: 0;
+}
+
+.list-item {
+    margin: 10px;
+}
+
+.link {
+    text-decoration: none;
+    color: wheat;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+.title {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.img-box {
+    width: 250px;
+    margin: 15px;
+    background-color: black;
+    float: left;
+}
+
+.description {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    color: whitesmoke;
+    padding: 5px;
+}
+
+img {
+    width: 100%;
+}
+
+.clearfix {
+    clear: left;
+}
+
