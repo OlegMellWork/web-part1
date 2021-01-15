@@ -1,18 +1,25 @@
 # Lesson 02
 ## HTML5 CSS3
-- HTML
+- HTML теги: 
   - Списки
-    - <ul> <li> ... </li> </ul>
-    - <ol> <li> ... </li> </ol>
-    - <dl> <dt> <dd> ... </dd> </dt> </dl>
+    - ul
+    - ol
+    - li
+    - dl
   - Картинки
-    - <img src="путь_ссылка" alt="текст_вместо_картинки">
+    - img
   - Ссылки
-     - <a href="ссылка"> текст ссылки </a>
+     - a
   - таблицы
-    - <table> <thead>...<.thead> <tbody> <tr> <td>...</td> </tr> </tbody> </table>
-  - <sup>...</sup> | <sub>...</sub>
-  - <small>...</small>
+    - table
+    - thead
+    - tbody
+    - tr
+    - td
+    - th
+  - sup
+  - sub
+  - small
 - CSS
   * class
   * id
